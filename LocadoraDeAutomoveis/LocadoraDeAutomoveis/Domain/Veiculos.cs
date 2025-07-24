@@ -8,14 +8,14 @@ namespace LocadoraDeAutomoveis.Domain
 {
     public class Veiculos
     {
-        public int id {  get; set; }
-        public string nome { get; set; }
-        public string modelo { get; set; }
-        public string marca { get; set; }
-        public string ano {  get; set; }
-        public string tipo { get; set; }
-        public bool ativo { get; set; }
-        public decimal preco { get; set; }
-        public DateTime ultima_atualizacao { get; set; }
+        public int Id {  get; set; }
+        public string Nome { get; set; }
+        public string Modelo { get; set; }
+        public string Marca { get; set; }
+        public string Ano {  get; set; }
+        public string Tipo { get; set; }
+        public bool Ativo { get; set; }
+        public decimal Preco { get; set; }
+        public DateTime Ultima_Atualizacao { get; set; }
     }
 }

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\domain\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\domain\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\repository\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\repository\\veiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\domain\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\domain\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\domain\\solicitacaodealugueis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\domain\\solicitacaodealugueis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|c:\\dev\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis\\locadoradeautomoveis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D45C9940-E978-4B74-92AB-1CE97CC2C156}|LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj|solutionrelative:locadoradeautomoveis\\locadoradeautomoveis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 324,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeiculoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Repository\\VeiculoRepository.cs",
+              "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\Repository\\VeiculoRepository.cs",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Repository\\VeiculoRepository.cs*",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\Repository\\VeiculoRepository.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:46:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocadoraDeAutomoveis.csproj",
+              "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj",
+              "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\LocadoraDeAutomoveis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T20:37:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolicitacaoDeAlugueis.cs",
+              "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\SolicitacaoDeAlugueis.cs",
+              "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\Domain\\SolicitacaoDeAlugueis.cs",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\SolicitacaoDeAlugueis.cs",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\Domain\\SolicitacaoDeAlugueis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:52:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\Veiculos.cs",
+              "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\Domain\\Veiculos.cs",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\Veiculos.cs",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\Domain\\Veiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:51:25.81Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\Clientes.cs",
+              "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\Domain\\Clientes.cs",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Domain\\Clientes.cs",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\Domain\\Clientes.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:51:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Program.cs",
               "RelativeDocumentMoniker": "LocadoraDeAutomoveis\\Program.cs",
-              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Program.cs",
-              "RelativeToolTip": "LocadoraDeAutomoveis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Dev\\Locadoradeautomoveis\\LocadoraDeAutomoveis\\LocadoraDeAutomoveis\\Program.cs*",
+              "RelativeToolTip": "LocadoraDeAutomoveis\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T17:44:16.355Z",
               "EditorCaption": ""

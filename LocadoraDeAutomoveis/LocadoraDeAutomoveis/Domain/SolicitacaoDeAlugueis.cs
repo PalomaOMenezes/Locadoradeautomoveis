@@ -8,14 +8,14 @@ namespace LocadoraDeAutomoveis.Domain
 {
     public class SolicitacaoDeAlugueis
     {
-        public int id { get; set; }
-        public int id_cliente { get; set; }
-        public int id_veiculo { get; set; }
-        public DateTime data_aluguel { get; set; }
-        public DateTime data_devolucao {  get; set; }
-        public decimal valor_diaria { get; set; }
-        public decimal valor_seguto { get; set; }
-        public decimal valor_total {  get; set; }
-        public DateTime ultima_atualizacao { get; set; }
+        public int Id { get; set; }
+        public int Id_Cliente { get; set; }
+        public int Id_Veiculo { get; set; }
+        public DateTime Data_Aluguel { get; set; }
+        public DateTime Data_Devolucao {  get; set; }
+        public decimal Valor_Diaria { get; set; }
+        public decimal Valor_Seguto { get; set; }
+        public decimal Valor_Total {  get; set; }
+        public DateTime Ultima_Atualizacao { get; set; }
     }
 }
