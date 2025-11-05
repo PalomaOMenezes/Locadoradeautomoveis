@@ -21,10 +21,9 @@ namespace LocadoraDeAutomoveis.Repository
                 {
                     // Abre a conexão
                     connection.Open();
-                    Console.WriteLine("Conexão com o MySQL bem-sucedida!");
 
                     // Exemplo: Executando uma consulta com Dapper
-                    var veiculos = connection.Query<Veiculos>("SELECT * FROM veiculos LIMIT 5");
+                    var veiculos = connection.Query<Veiculos>("SELECT * FROM veiculos");
 
                     return veiculos.ToList();
                 }
@@ -40,5 +39,29 @@ namespace LocadoraDeAutomoveis.Repository
             }
         }
 
+        public Veiculos RetornarCarro(int id)
+        {
+            Veiculos carroSelecionado = null;
+
+            using (var connection = new MySqlConnection(connectionString))
+            {  
+                try
+                {
+                    // Abre a conexão
+                    connection.Open();
+
+                    // Exemplo: Executando uma consulta com Dapper
+                    carroSelecionado = connection.QueryFirstOrDefault<Veiculos>("SELECT * FROM Veiculos Where Id = @Id", new { Id = id });
+
+                    
+                }
+                catch (Exception ex) // Nomeamos a exceção como 'ex',é uma variavel do tipo Exception, que captura o erro que der.
+                {
+                    // Agora a mensagem de erro real será exibida em ex.message, após a minha msg.
+                    Console.WriteLine($"Ocorreu um erro ao buscar o veículo. {ex.Message}");               
+                }               
+            }
+            return carroSelecionado;
+        }
     }
 }
